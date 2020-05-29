@@ -5,3 +5,4 @@ while count >= 1 do
 puts count
 
 end
+puts "Happy New Year!"
